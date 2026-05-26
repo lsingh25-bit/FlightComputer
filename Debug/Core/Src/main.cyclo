@@ -1,0 +1,7 @@
+../Core/Src/main.c:61:6:BMP390_Read_Calibration	3
+../Core/Src/main.c:106:6:BMP390_Compensate_Data	2
+../Core/Src/main.c:160:5:main	4
+../Core/Src/main.c:230:6:SystemClock_Config	3
+../Core/Src/main.c:260:13:MX_I2C1_Init	2
+../Core/Src/main.c:277:13:MX_GPIO_Init	1
+../Core/Src/main.c:284:6:Error_Handler	1
